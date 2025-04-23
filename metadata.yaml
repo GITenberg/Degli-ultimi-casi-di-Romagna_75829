@@ -1,0 +1,34 @@
+_repo: Degli-ultimi-casi-di-Romagna_75829
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Azeglio, Massimo d'
+    aliases:
+    - D'Azeglio, Massimo
+    - Azeglio, Massimo Tapparelli, marchese d'
+    - D'Azeglio, M. (Massimo)
+    birthdate: 1798
+    deathdate: 1866
+    gutenberg_agent_id: '41807'
+    url: http://www.gutenberg.org/2009/agents/41807
+    wikipedia: http://it.wikipedia.org/wiki/Massimo_d%27Azeglio
+description: ''
+gutenberg_issued: '2025-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75829'
+language: it
+pgterms:marc905: 20240401042617dazeglio
+pgterms:marc906: '1848'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aVenezia :$bGattei, $c1848.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Degli ultimi casi di Romagna
+url: http://www.gutenberg.org/ebooks/75829
